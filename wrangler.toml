@@ -1,0 +1,3 @@
+name = "xray-vless-ws"
+main = "worker.js"
+compatibility_date = "2025-10-01"
